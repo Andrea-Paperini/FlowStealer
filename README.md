@@ -7,4 +7,4 @@ nota: il flusso è perfettamente compatibile con gli standard HTML5 (perciò è 
   <source src="ip:porta/stream.ogg" type="video/ogg">
 </video>
 
-è necessario il Framework Net 5
+Necessario il Framework Net 5
